@@ -54,5 +54,3 @@ This last part (the Checking tool) was originaly meant to simply be a function i
 
 
 Hoping that these explanations made my logic and my preferences clear to you, I wish you well and am looking foreward to meeting you for more advances discussions.
-
-Xavier Aristaghes
